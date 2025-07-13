@@ -35,6 +35,8 @@ Here are some tips to get the most out of Bolt.new:
 
 ## FAQs
 
+I have started expoloring this repo
+
 **Where do I sign up for a paid plan?**  
 Bolt.new is free to get started. If you need more AI tokens or want private projects, you can purchase a paid subscription in your [Bolt.new](https://bolt.new) settings, in the lower-left hand corner of the application. 
 
